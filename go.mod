@@ -6,7 +6,6 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.24.0
 	github.com/aws/aws-sdk-go-v2/config v1.26.1
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.25.5
-	github.com/bavatech/envloader v1.2.0
 	github.com/joho/godotenv v1.5.1
 	github.com/stretchr/testify v1.8.4
 )

@@ -1,10 +1,10 @@
 package secretmanager_test
 
 import (
+	"github.com/libercapital/envloader-go/internal/secretmanager"
 	"testing"
 
 	"github.com/aws/aws-sdk-go-v2/aws"
-	"github.com/bavatech/envloader/internal/secretmanager"
 	"github.com/stretchr/testify/assert"
 )
 
